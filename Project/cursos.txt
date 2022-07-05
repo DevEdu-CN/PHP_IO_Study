@@ -1,3 +1,5 @@
 
 php I/O arquivos streams
 php I/O arquivos streams
+php I/O arquivos streams
+php I/O arquivos streams
